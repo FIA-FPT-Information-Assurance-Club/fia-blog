@@ -1,6 +1,6 @@
 ---
 title: Redhawk
-description: Welcome to Hugo Theme Stack
+description: "Thu thập thông tin và quét lỗ hổng với Red Hawk"
 slug: redhawk
 date: 2020-09-23 09:00:00+0000
 image: redhawk.png
