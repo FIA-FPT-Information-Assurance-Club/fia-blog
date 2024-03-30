@@ -1,7 +1,7 @@
 ---
 title: Redhawk
 description: Welcome to Hugo Theme Stack
-slug: hello-world
+slug: redhawk
 date: 2020-09-23 09:00:00+0000
 image: redhawk.png
 categories:

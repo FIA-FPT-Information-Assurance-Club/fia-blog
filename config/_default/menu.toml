@@ -10,15 +10,15 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/FIA-FPT-Information-Assurance-Club"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/fptinformationassurance"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-facebook"
