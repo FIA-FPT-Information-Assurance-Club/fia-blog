@@ -21,4 +21,4 @@ name = "Facebook"
 url = "https://www.facebook.com/fptinformationassurance"
 
 [social.params]
-icon = "brand-facebook"
+icon = "link"
