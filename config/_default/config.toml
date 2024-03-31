@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://fia-blog.vercel.app"
+baseurl = "https://blog.fiahackingisfun.id.vn/"
 languageCode = "en-us"
 paginate = 5
 title = "FPT Information Assurance Club "
